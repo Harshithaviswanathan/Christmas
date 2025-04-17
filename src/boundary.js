@@ -7,7 +7,7 @@ export function addBoundary(scene, groundSize = 20) {
   // Materials
   const candyCaneMaterial = new THREE.MeshStandardMaterial({
     color: 0xff0000,
-    roughness: 0.7,
+    roughness: 0.4,
     metalness: 0.2
   });
   

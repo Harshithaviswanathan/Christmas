@@ -17,9 +17,9 @@ function createGifts() {
     const giftPositions = [
         { x: -0.4, y: 0.2, z: -1.1, scale: 0.4, rotation: 1.2 },
         { x: -1.75, y: 0.25, z: -1.3, scale: 0.5, rotation: -1.3 },
-        { x: -1.3, y: 0.15, z: -1.1, scale: 0.3, rotation: 0.1 },
+        { x: -1.27, y: 0.15, z: -1.1, scale: 0.3, rotation: 0.1 },
         { x: -0.9, y: 0.2, z: -2.5, scale: 0.5, rotation: 0.4 },
-        { x: -1.6, y: 0.18, z: -2, scale: 0.45, rotation: -0.2 }
+        { x: -1.6, y: 0.18, z: -2, scale: 0.45, rotation: -0.21 }
     ];
     
     // Create gifts
